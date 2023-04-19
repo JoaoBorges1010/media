@@ -1,5 +1,38 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Sherman McClure",
+      "id": 4
+    },
+    {
+      "name": "Eric Pollich",
+      "id": 6
+    },
+    {
+      "name": "Miss Ralph Mosciski",
+      "id": 7
+    },
+    {
+      "name": "Mike Nolan",
+      "id": 8
+    },
+    {
+      "name": "Joshua Mosciski V",
+      "id": 10
+    },
+    {
+      "name": "Ignacio Sawayn",
+      "id": 11
+    },
+    {
+      "name": "Caleb Fadel",
+      "id": 12
+    }
+  ],
   "albums": [],
   "photos": []
 }
