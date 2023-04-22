@@ -5,34 +5,25 @@
       "name": "Myra"
     },
     {
-      "name": "Sherman McClure",
-      "id": 4
-    },
-    {
       "name": "Eric Pollich",
       "id": 6
     },
     {
-      "name": "Miss Ralph Mosciski",
+      "name": "Gilbert Spinka",
       "id": 7
-    },
+    }
+  ],
+  "albums": [
     {
-      "name": "Mike Nolan",
-      "id": 8
-    },
-    {
-      "name": "Joshua Mosciski V",
-      "id": 10
-    },
-    {
-      "name": "Ignacio Sawayn",
+      "userId": 1,
+      "title": "Handmade Fresh Keyboard",
       "id": 11
     },
     {
-      "name": "Caleb Fadel",
-      "id": 12
+      "userId": 1,
+      "title": "Awesome Rubber Car",
+      "id": 18
     }
   ],
-  "albums": [],
   "photos": []
 }
